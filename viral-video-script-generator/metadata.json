@@ -1,0 +1,5 @@
+{
+  "name": "Viral Video Script Generator",
+  "description": "An AI-powered app to generate scripts, scenes, and captions for viral short videos based on a user's topic. It simulates the video creation process.",
+  "requestFramePermissions": []
+}
